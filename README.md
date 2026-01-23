@@ -120,3 +120,6 @@ The main objectives of this dashboard are to:
 # 📌 Conclusion
 
 This Sales & Profit Performance Dashboard provides a comprehensive and interactive view of business metrics. It empowers decision-makers to analyze performance efficiently, uncover insights, and plan future strategies with confidence.
+
+-------
+# ⭐ If you find this project useful, consider giving it a star on GitHub!
