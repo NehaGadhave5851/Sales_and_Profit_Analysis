@@ -103,20 +103,20 @@ The main objectives of this dashboard are to:
       - High sales–high profit products
       - High sales–low profit risk areas
 -------
-🛠️ Tools & Technologies Used :-
+# 🛠️ Tools & Technologies Used :-
 
   - 📊 Tableau – Interactive dashboard creation
   - 🧮 Excel / CSV Dataset – Data preprocessing
   - 💻 GitHub – Project hosting & version control
   - 📈 Data Analytics Techniques – Trend & performance analysis
 -------
-🚀 Key Business Outcomes :-
+# 🚀 Key Business Outcomes :-
 
 - ✔️ Improved visibility into sales & profit drivers
 - ✔️ Identification of top cities and profitable categories
 - ✔️ Early detection of loss-making segments
 - ✔️ Supports data-backed strategic decisions
 ------
-📌 Conclusion
+# 📌 Conclusion
 
 This Sales & Profit Performance Dashboard provides a comprehensive and interactive view of business metrics. It empowers decision-makers to analyze performance efficiently, uncover insights, and plan future strategies with confidence.
